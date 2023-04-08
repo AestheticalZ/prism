@@ -46,6 +46,14 @@
 			"examplesPath": "examples/prism-{id}",
 			"addCheckAll": true
 		},
+		"blitz3d": {
+			"title": "Blitz3D",
+			"alias": ["bb"],
+			"aliasTitles": {
+				"bb": "BlitzBasic"
+			},
+			"owner": "AestheticalZ"
+		},
 		"markup": {
 			"title": "Markup",
 			"alias": ["html", "xml", "svg", "mathml", "ssml", "atom", "rss"],
