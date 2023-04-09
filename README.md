@@ -7,7 +7,7 @@ Prism is a lightweight, robust, and elegant syntax highlighting library. It's a 
 
 You can learn more on [prismjs.com](https://prismjs.com/).
 
-This fork adds support for Blitz3D's language, BlitzBasic.
+This fork adds support for Blitz3D's language, BlitzBasic, and for Blitz3D's declaration file syntax.
 
 [Why another syntax highlighter?](https://lea.verou.me/2012/07/introducing-prism-an-awesome-new-syntax-highlighter/#more-1841)
 
