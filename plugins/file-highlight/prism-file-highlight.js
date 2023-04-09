@@ -25,7 +25,8 @@
 		'bat': 'batch',
 		'h': 'c',
 		'tex': 'latex',
-		'bb': 'blitz3d'
+		'bb': 'blitz3d',
+		'decls': 'decls'
 	};
 
 	var STATUS_ATTR = 'data-src-status';
