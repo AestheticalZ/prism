@@ -24,7 +24,8 @@
 		'sh': 'bash',
 		'bat': 'batch',
 		'h': 'c',
-		'tex': 'latex'
+		'tex': 'latex',
+		'bb': 'blitz3d'
 	};
 
 	var STATUS_ATTR = 'data-src-status';
