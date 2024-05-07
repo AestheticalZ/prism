@@ -32,7 +32,11 @@
 		},
 		"prism-vs": {
 			"title": "VS",
-			"owner": "Andrew Lock, AestheticalZ"
+			"owner": "Andrew Lock, Analog Feelings"
+		},
+		"prism-vsc": {
+			"title": "VS Code",
+			"owner": "tabuckner, Analog Feelings"
 		},
 		"prism-solarizedlight": {
 			"title": "Solarized Light",
@@ -56,7 +60,7 @@
 			"aliasTitles": {
 				"bb": "BlitzBasic"
 			},
-			"owner": "AestheticalZ"
+			"owner": "Analog Feelings"
 		},
 		"decls": {
 			"title": "Blitz3D Declarations",
@@ -64,7 +68,7 @@
 			"aliasTitles": {
 				"decls": "BlitzBasic Declarations"
 			},
-			"owner": "AestheticalZ"
+			"owner": "Analog Feelings"
 		},
 		"markup": {
 			"title": "Markup",

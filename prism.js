@@ -1775,7 +1775,9 @@ Prism.languages.js = Prism.languages.javascript;
 		'sh': 'bash',
 		'bat': 'batch',
 		'h': 'c',
-		'tex': 'latex'
+		'tex': 'latex',
+		'bb': 'blitz3d',
+		'decls': 'decls'
 	};
 
 	var STATUS_ATTR = 'data-src-status';

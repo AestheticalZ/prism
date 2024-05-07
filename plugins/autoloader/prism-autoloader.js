@@ -174,6 +174,8 @@
 	}/*]*/;
 
 	var lang_aliases = /*aliases_placeholder[*/{
+		"bb": "blitz3d",
+		"decls": "decls",
 		"html": "markup",
 		"xml": "markup",
 		"svg": "markup",
